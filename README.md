@@ -1,2 +1,2 @@
 # chatapp
-A simple chatapp in vue, tailwindcss, express, redis, and socketio
+A simple chatapp in nuxt, tailwindcss, express, redis, and socketio
